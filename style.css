@@ -65,15 +65,15 @@ p {
 .cloud-top{
     height: 90px;
     position: absolute;
-    right: 300px;
+    right: 200px;
     top: 50px;
 }
 
 .cloud-bot{
     height: 90px;
     position: absolute;
-    left: 300px;
-    top: 330px;
+    left: 200px;
+    top: 340px;
 }
 
 .contact-me {
